@@ -1,0 +1,11 @@
+BUILD/
+*.pyc
+mbed_settings.*
+.DS_Store
+.env
+.vscode
+.cache/
+.pytest_cache/
+.update-certificates/
+.manifest_tool.json
+.mbed_cloud_config.json
